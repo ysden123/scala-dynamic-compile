@@ -1,0 +1,4 @@
+class PersonData() {
+  val field = 42
+}
+scala.reflect.classTag[PersonData].runtimeClass
